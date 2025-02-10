@@ -1,6 +1,6 @@
 # **Gemini Fine Tuning Chatbot Using PDF**
 
-The Gemini PDF Chatbot is a Flask-based AI assistant that extracts and provides answers strictly from a given PDF document. This chatbot uses Google's Gemini AI model to process queries and return precise responses based on the document’s content.
+The Gemini Fine Tuning Chatbot Using PDF is a Flask-based AI assistant that extracts and provides answers strictly from a given PDF document. This chatbot uses Google's Gemini AI model to process queries and return precise responses based on the document’s content.
 
 ## Features
 
