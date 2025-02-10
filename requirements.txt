@@ -1,0 +1,5 @@
+flask
+flask-session 
+google-generativeai 
+PyPDF2 
+markdown
