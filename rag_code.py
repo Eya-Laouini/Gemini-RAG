@@ -21,7 +21,7 @@ genai.configure(api_key=GEMINI_API_KEY)
 model = genai.GenerativeModel("gemini-1.5-flash")
 
 # Read and process the PDF file
-PDF_FILE_PATH = r"C:\Users\LENOVO\Desktop\Fine-Tuning-Gemini\Fake_Persons_Info.pdf"  
+PDF_FILE_PATH = "Fake_Persons_Info.pd"  
 policy_content = ""
 
 if os.path.exists(PDF_FILE_PATH):
