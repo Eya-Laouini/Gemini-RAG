@@ -17,8 +17,8 @@ To set up the Gemini PDF Chatbot, you need to have Python installed on your syst
 
 ### **1. Clone the repository:**
 ```bash
-git clone https://github.com/your-repo/Gemini-PDF-Chatbot.git
-cd Gemini-PDF-Chatbot
+git clone https://github.com/Eya-Laouini/Gemini-RAG
+cd Gemini-RAG
 ```
 
 ### **2. Set up a virtual environment (optional but recommended):**
